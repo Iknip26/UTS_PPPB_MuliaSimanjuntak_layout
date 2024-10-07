@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity2">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+
+    <ImageView
+        android:id="@+id/Logo_ig"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginRight="280dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginBottom="680dp"
+        android:layout_marginTop="10dp"
+        android:src="@drawable/instagram_logo"
+
+    <ImageView
+        android:id="@+id/like"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="680dp"
+        android:layout_marginLeft="290dp"
+        android:layout_marginRight="60dp"
+        android:src="@drawable/ic_heart"
+
+    <ImageView
+        android:id="@+id/dm"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginRight="10dp"
+        android:layout_marginLeft="360dp"
+        android:layout_marginBottom="680dp"
+        android:layout_marginTop="10dp"
+        android:src="@drawable/ic_share"
+
+    <ImageView
+        android:id="@+id/userstory"
+        android:layout_height="match_parent"
+        android:layout_width="match_parent"
+        android:layout_marginTop="30dp"
+        android:layout_marginBottom="540dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="320dp"
+        android:src="@drawable/user_story"
+
+    <ImageView
+        android:id="@+id/userstory"
+        android:layout_height="match_parent"
+        android:layout_width="match_parent"
+        android:layout_marginTop="30dp"
+        android:layout_marginBottom="540dp"
+        android:layout_marginLeft="100dp"
+        android:layout_marginRight="230dp"
+        android:src="@drawable/liga_story"
+
+    <ImageView
+        android:id="@+id/userstory"
+        android:layout_height="match_parent"
+        android:layout_width="match_parent"
+        android:layout_marginTop="30dp"
+        android:layout_marginBottom="540dp"
+        android:layout_marginLeft="200dp"
+        android:layout_marginRight="130dp"
+        android:src="@drawable/asset_story"
+
+    <ImageView
+        android:id="@+id/userstory"
+        android:layout_height="match_parent"
+        android:layout_width="match_parent"
+        android:layout_marginTop="30dp"
+        android:layout_marginBottom="540dp"
+        android:layout_marginLeft="300dp"
+        android:layout_marginRight="30dp"
+        android:src="@drawable/liga_story"
+
+        <ImageView
+            android:id="@+id/ppfufu"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:src="@drawable/fufufafa_pp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="355dp"
+            android:layout_marginTop="180dp"
+            android:layout_marginBottom="500dp"
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="@string/userfufu"
+                android:textStyle="bold"
+                android:layout_marginBottom="500dp"
+                android:layout_marginTop="183dp"
+                android:layout_marginLeft="65dp"
+                android:textSize="15dp"
+
+                <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="@string/putmul"
+                android:layout_marginBottom="500dp"
+                android:layout_marginTop="200dp"
+                android:layout_marginLeft="65dp"
+                android:textSize="15dp"
+
+
+    <ImageView
+        android:id="@+id/postfufu"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/post_fufufafa"
+        android:layout_marginTop="200dp"
+        android:layout_marginBottom="100dp"
+
+        <ImageView
+            android:id="@+id/like"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:src="@drawable/ic_heart"
+            android:layout_marginTop="590dp"
+            android:layout_marginBottom="95dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="360dp"
+
+    <ImageView
+        android:id="@+id/like"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/ic_comment"
+        android:layout_marginTop="590dp"
+        android:layout_marginBottom="95dp"
+        android:layout_marginLeft="70dp"
+        android:layout_marginRight="300dp"
+
+    <ImageView
+        android:id="@+id/like"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/ic_share"
+        android:layout_marginTop="590dp"
+        android:layout_marginBottom="95dp"
+        android:layout_marginLeft="130dp"
+        android:layout_marginRight="240dp"
+
+    <ImageView
+        android:id="@+id/like"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/ic_bookmark"
+        android:layout_marginTop="590dp"
+        android:layout_marginBottom="95dp"
+        android:layout_marginLeft="360dp"
+        android:layout_marginRight="10dp"
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/lilked"
+            android:layout_marginBottom="80dp"
+            android:layout_marginTop="635dp"
+            android:layout_marginLeft="10dp"
+            android:textSize="15dp"
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="@string/fufu"
+                android:textStyle="bold"
+                android:layout_marginTop="660dp"
+                android:layout_marginLeft="10dp"
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="@string/proud"
+        android:layout_marginTop="660dp"
+        android:layout_marginLeft="70dp"
+        android:textColor="@color/blue"
+
+            
+            
+            
+</androidx.constraintlayout.widget.ConstraintLayout>
